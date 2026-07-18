@@ -1,0 +1,1 @@
+export default function NewEventPage(){return <div className="page"><header><p className="muted">Create</p><h1 className="page-title">New Event</h1><p className="page-description">這一頁下一步會接上可儲存的活動表單。</p></header><section className="card" style={{marginTop:28}}><div className="empty-state">Event form scaffold 已建立。下一個步驟會加入名稱、日期、地點、狀態與預算欄位。</div></section></div>}

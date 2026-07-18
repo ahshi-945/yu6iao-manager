@@ -1,0 +1,1 @@
+export default function Page(){return <div className="page"><p className="muted">Module</p><h1 className="page-title">Settings</h1><p className="page-description">功能框架已建立。</p><section className="card" style={{marginTop:28}}><div className="empty-state">下一階段接資料與互動功能。</div></section></div>}
