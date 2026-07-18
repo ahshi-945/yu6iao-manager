@@ -1,2 +1,2 @@
-# Yu6iao-Manager
-Street Dance Event Management System
+# yu6iao-manager
+street dance event management system
